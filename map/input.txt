@@ -1,0 +1,6 @@
+test test
+	раз два три
+ƒва hello world
+hello;
+hi
+	Hello
